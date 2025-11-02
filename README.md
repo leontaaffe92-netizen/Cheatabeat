@@ -1,2 +1,1 @@
 # Cheatabeat
-Helps people 
